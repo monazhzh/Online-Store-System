@@ -1,11 +1,11 @@
 
-# monamall
+# MonaMall
 
-##Online Mall System
+## Online Mall System
 
-###Front End: vue.js, ES6
-###Back End: node.js, Express
-###Database: MongoDB.
+> Front End: vue.js, ES6
+> Back End: node.js, Express
+> Database: MongoDB.
 
 Implement goodslist, shopping cart, address comfirmation, order confirmation webpages. 
 
