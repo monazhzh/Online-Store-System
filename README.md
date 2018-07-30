@@ -1,2 +1,0 @@
-# MonaMall
-Online Store System 
